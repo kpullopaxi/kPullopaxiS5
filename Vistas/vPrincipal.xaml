@@ -79,7 +79,7 @@
         <Label 
                 />
         <Button x:Name="btnActualizar"
-        Text="Actualizar."
+        Text="Actualizar"
         Clicked="btnActualizar_Clicked"/>
 
 
